@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914149285823",
+    "project_id": "weather-notifier-app",
+    "storage_bucket": "weather-notifier-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914149285823:android:6588989a3a060071294b0a",
+        "android_client_info": {
+          "package_name": "mohamed.test.fitnessweatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdxFg0m90KXWv2Qf46blJZhRPFJIYfxoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
